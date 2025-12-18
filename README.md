@@ -132,10 +132,10 @@ Le modèle met en évidence des freins culturels et informationnels, plus que de
 ## 🧠 Synthèse & interprétation métier
 
 Le recours au traitement dépend principalement :
-- de l’environnement familial,
-- de l’accès à l’information,
-- des normes sociales et culturelles,
-- du genre.
+- de l’environnement familial
+- de l’accès à l’information
+- des normes sociales et culturelles
+- du genre
 
 Le stress ou la souffrance perçue ne suffisent pas à expliquer le passage au soin.
 
@@ -144,14 +144,14 @@ Le stress ou la souffrance perçue ne suffisent pas à expliquer le passage au s
 ## 🎯 Recommandations pour la campagne de prévention
 
 **Cibler en priorité :**
-- les hommes,
-- les personnes sans antécédents familiaux,
-- les contextes où le recours au soin est peu normalisé.
+- les hommes
+- les personnes sans antécédents familiaux
+- les contextes où le recours au soin est peu normalisé
 
 **Orienter la communication vers :**
-- l’information concrète sur les options de soins,
-- la déstigmatisation du premier recours,
-- le passage à l’action (quand consulter, comment, pourquoi).
+- l’information concrète sur les options de soins
+- la déstigmatisation du premier recours
+- le passage à l’action (quand consulter, comment, pourquoi)
 
 Le modèle est un outil d’aide à la décision stratégique, permettant de prioriser les publics et les messages.
 
@@ -160,4 +160,4 @@ Le modèle est un outil d’aide à la décision stratégique, permettant de pri
 ## 🚀 Conclusion
 
 Ce projet montre l’intérêt du machine learning interprétable pour éclairer des enjeux de santé publique.  
-La valeur principale réside dans la **compréhension des mécanismes sociaux du non-recours aux soins**, afin de concevoir des campagnes de prévention plus efficaces et ciblées.
+La valeur principale réside dans la compréhension des mécanismes sociaux du non-recours aux soins, afin de concevoir des campagnes de prévention plus efficaces et ciblées.
