@@ -1,7 +1,7 @@
 # Mental Health Treatment – Exploratory Data Analysis & Machine Learning  
 **JEDHA Essentials – Final Project**
 
-## 📌 Contexte du projet
+## Contexte du projet
 
 L’association **Mosaïque Mentale** souhaite lancer une campagne de prévention en santé mentale.  
 L’objectif est d’identifier les **facteurs qui influencent le recours au traitement**, afin de mieux cibler les populations à risque de non-recours aux soins.
@@ -11,7 +11,7 @@ L’objectif est d’identifier les **facteurs qui influencent le recours au tra
 
 ---
 
-## 📊 Méthodologie globale
+## Méthodologie globale
 
 Le projet s’articule en trois grandes étapes :
 1. **Exploratory Data Analysis (EDA)** pour comprendre les données et identifier des signaux forts
@@ -67,7 +67,7 @@ La vulnérabilité perçue seule ne suffit pas à déclencher le passage au soin
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 
 ### Pré-processing & encodage
 
@@ -112,7 +112,7 @@ Le compromis du modèle est donc acceptable pour une campagne de prévention.
 
 ---
 
-## 📈 Interprétation des résultats (coefficients)
+## Interprétation des résultats (coefficients)
 
 **Facteurs les plus influents** :
 - Antécédents familiaux (+)
@@ -129,7 +129,7 @@ Le modèle met en évidence des freins culturels et informationnels, plus que de
 
 ---
 
-## 🧠 Synthèse & interprétation métier
+## Synthèse & interprétation
 
 Le recours au traitement dépend principalement :
 - de l’environnement familial
@@ -141,7 +141,7 @@ Le stress ou la souffrance perçue ne suffisent pas à expliquer le passage au s
 
 ---
 
-## 🎯 Recommandations pour la campagne de prévention
+## Recommandations pour la campagne de prévention
 
 **Cibler en priorité :**
 - les hommes
@@ -155,7 +155,7 @@ Le stress ou la souffrance perçue ne suffisent pas à expliquer le passage au s
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 Ce projet montre l’intérêt du machine learning interprétable pour éclairer des enjeux de santé publique.  
 La valeur principale réside dans la compréhension des mécanismes sociaux du non-recours aux soins, afin de concevoir des campagnes de prévention plus efficaces et ciblées.
