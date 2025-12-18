@@ -16,7 +16,7 @@ L’objectif est d’identifier les **facteurs qui influencent le recours au tra
 Le projet s’articule en trois grandes étapes :
 1. **Exploratory Data Analysis (EDA)** pour comprendre les données et identifier des signaux forts
 2. **Pré-processing et encodage** des variables
-3. **Modélisation en machine learning** et interprétation métier des résultats
+3. **Modélisation en machine learning** et interprétation des résultats
 
 ---
 
@@ -61,7 +61,7 @@ L’information apparaît comme un levier majeur de prévention.
 
 ### Stress, historique personnel et occupation
 - Stress et historique mental personnel : répartition équilibrée mais faible pouvoir explicatif.
-- Occupation : impact marginal
+- Occupation : impact marginal.
 
 La vulnérabilité perçue seule ne suffit pas à déclencher le passage au soin.
 
@@ -73,7 +73,7 @@ La vulnérabilité perçue seule ne suffit pas à déclencher le passage au soin
 
 - One-hot encoding des variables catégorielles :
   - `Gender`, `Continent`, `Occupation`
-- Conversion manuelle des variables Oui / Non en booléens :
+- Conversion manuelle des variables Yes / No en booléens :
   - `family_history`
   - `treatment` (target)
   - `Mental_Health_History`
@@ -150,10 +150,8 @@ Le stress ou la souffrance perçue ne suffisent pas à expliquer le passage au s
 
 **Orienter la communication vers :**
 - l’information concrète sur les options de soins
-- la déstigmatisation du premier recours
+- la déstigmatisation du premier recours au soin
 - le passage à l’action (quand consulter, comment, pourquoi)
-
-Le modèle est un outil d’aide à la décision stratégique, permettant de prioriser les publics et les messages.
 
 ---
 
